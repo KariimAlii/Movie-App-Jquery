@@ -1,4 +1,7 @@
 # 🔥 Movie Store Application
+
+![] (https://github.com/KariimAlii/Movie-App-Jquery/blob/main/MovieApp.gif)
+
 ## [View Website](https://movieapp-ka.vercel.app/)
 ### 🔥 Jquery Web Application
 
