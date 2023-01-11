@@ -16,7 +16,7 @@ $(function () {
                                     <p>${overview}</p>
                                     <p class="movie-link">${homepage ? homePageLink : ''}</p>
                                 </div>
-                                <a class="home-link" href="./Home.html">Home</a>
+                                <a class="home-link" href="./index.html">Home</a>
                             </div>`
         movieContainer.html(movieString);
         $('#movieData').append(movieContainer);
